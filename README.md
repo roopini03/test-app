@@ -1,3 +1,7 @@
+---
+name: Readme Creator
+---
+
 # Quiz CLI
 
 An interactive command-line quiz game for learning JavaScript, Node.js, and general programming concepts.
